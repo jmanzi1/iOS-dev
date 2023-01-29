@@ -1,14 +1,13 @@
 
 Intro Application
 
-TODO:// Add app description
+
 The Intro App collects my information (names, nationality, school etc.) and displays it when the user clicks/taps "Introduce Self". The stepper adjusts the number of pets the user owns between 0(min) and 50(max). The switch indicates whether the user would like to have more pets or not. To dismiss the info alert box, the user taps the "Nice to meet you".
 
 App Walk-though
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
+
  https://gfycat.com/saltyunfinisheddingo.gif
 
-TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 Required Features
 1. [x] App displays an image of a school's logo
